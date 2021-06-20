@@ -1,0 +1,150 @@
+item {
+  name: "n02691156"
+  id: 1
+  display_name: "airplane"
+}
+item {
+  name: "n02419796"
+  id: 2
+  display_name: "antelope"
+}
+item {
+  name: "n02131653"
+  id: 3
+  display_name: "bear"
+}
+item {
+  name: "n02834778"
+  id: 4
+  display_name: "bicycle"
+}
+item {
+  name: "n01503061"
+  id: 5
+  display_name: "bird"
+}
+item {
+  name: "n02924116"
+  id: 6
+  display_name: "bus"
+}
+item {
+  name: "n02958343"
+  id: 7
+  display_name: "car"
+}
+item {
+  name: "n02402425"
+  id: 8
+  display_name: "cattle"
+}
+item {
+  name: "n02084071"
+  id: 9
+  display_name: "dog"
+}
+item {
+  name: "n02121808"
+  id: 10
+  display_name: "domestic_cat"
+}
+item {
+  name: "n02503517"
+  id: 11
+  display_name: "elephant"
+}
+item {
+  name: "n02118333"
+  id: 12
+  display_name: "fox"
+}
+item {
+  name: "n02510455"
+  id: 13
+  display_name: "giant_panda"
+}
+item {
+  name: "n02342885"
+  id: 14
+  display_name: "hamster"
+}
+item {
+  name: "n02374451"
+  id: 15
+  display_name: "horse"
+}
+item {
+  name: "n02129165"
+  id: 16
+  display_name: "lion"
+}
+item {
+  name: "n01674464"
+  id: 17
+  display_name: "lizard"
+}
+item {
+  name: "n02484322"
+  id: 18
+  display_name: "monkey"
+}
+item {
+  name: "n03790512"
+  id: 19
+  display_name: "motorcycle"
+}
+item {
+  name: "n02324045"
+  id: 20
+  display_name: "rabbit"
+}
+item {
+  name: "n02509815"
+  id: 21
+  display_name: "red_panda"
+}
+item {
+  name: "n02411705"
+  id: 22
+  display_name: "sheep"
+}
+item {
+  name: "n01726692"
+  id: 23
+  display_name: "snake"
+}
+item {
+  name: "n02355227"
+  id: 24
+  display_name: "squirrel"
+}
+item {
+  name: "n02129604"
+  id: 25
+  display_name: "tiger"
+}
+item {
+  name: "n04468005"
+  id: 26
+  display_name: "train"
+}
+item {
+  name: "n01662784"
+  id: 27
+  display_name: "turtle"
+}
+item {
+  name: "n04530566"
+  id: 28
+  display_name: "watercraft"
+}
+item {
+  name: "n02062744"
+  id: 29
+  display_name: "whale"
+}
+item {
+  name: "n02391049"
+  id: 30
+  display_name: "zebra"
+}
